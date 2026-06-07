@@ -323,6 +323,26 @@ body {
 
 .product-card.is-loading .snapshot-pair { opacity: 0; }
 
+.product-card.is-loading .product-card__media::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 1.75rem;
+  height: 1.75rem;
+  margin: -0.875rem 0 0 -0.875rem;
+  border: 2px solid rgba(0, 0, 0, 0.12);
+  border-top-color: rgba(0, 0, 0, 0.45);
+  border-radius: 50%;
+  animation: spin 0.75s linear infinite;
+  z-index: 6;
+  pointer-events: none;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
 .product-card__video {
   position: absolute;
   inset: 0;
