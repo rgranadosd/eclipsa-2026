@@ -1,0 +1,11 @@
+<svg width="520" height="140" viewBox="0 0 520 140" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">ECLIPSA 2026</title>
+  <desc id="desc">Logotipo editorial minimalista para la marca ECLIPSA 2026</desc>
+  <rect width="520" height="140" fill="#F7F2EA"/>
+  <circle cx="72" cy="70" r="34" fill="#181511"/>
+  <path d="M95 36C108 46 116 62 116 80C116 95 110 108 99 118" stroke="#A37A4D" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="142" y="62" fill="#181511" font-family="'Times New Roman', serif" font-size="34" letter-spacing="9">ECLIPSA</text>
+  <text x="145" y="95" fill="#6D665C" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="7">TWENTY TWENTY SIX</text>
+  <line x1="142" y1="107" x2="389" y2="107" stroke="#CDBFAE"/>
+  <text x="398" y="108" fill="#A37A4D" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="4">2026</text>
+</svg>
